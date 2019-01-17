@@ -95,7 +95,7 @@ export default {
 </script>
 
 
-<style lang="scss">
+<style lang="scss" scope>
 .login-container {
   background-color: #324152;
   height: 100%;
